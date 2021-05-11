@@ -1,0 +1,30 @@
+
+.navbar {
+	background-color: #721121
+}
+
+.jumbotron {
+	padding: 100px 0;
+	background:, no-repeat, center;
+	color: #721121;
+	background-color: #D1F0B1;
+}
+
+
+.speaker .card {
+	padding-top: 20px;
+}
+
+.speaker .card {
+	margin-bottom: 20px;
+}
+
+.card .card-body {
+	height: 268px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
